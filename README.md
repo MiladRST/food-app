@@ -1,4 +1,6 @@
-# food-app
+## Nuxt Food-App
+
+Food-app based on Nuxt js. preview is available in: food-rst.netlify.app
 
 ## Build Setup
 
